@@ -22,7 +22,7 @@ int main() {
 }
 
 /*
-Sample Output (Checked by Avi Sharma):
+Output:
 
 Enter the original number: 22
 Enter the bit position to toggle (1-based index): 2
