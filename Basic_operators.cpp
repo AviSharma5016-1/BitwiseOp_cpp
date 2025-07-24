@@ -29,7 +29,7 @@ int main() {
 }
 
 /*
-Sample Output (Tested by Avi Sharma):
+Output:
 
 Bitwise AND (a & b)       = 0
 Bitwise OR  (a | b)       = 15
